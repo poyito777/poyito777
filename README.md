@@ -1,4 +1,4 @@
-# Hi, I'm Ahmed Solis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25>
+# Bienvenidos a mi cueva del virgen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25>
 
 ![Badge](https://visitor-counter-badge.vercel.app/api/poyito777/poyito777)
 <a href="https://www.github.com/poyito777" target="_blank" rel="noreferrer">
@@ -34,7 +34,7 @@ En mis tiempos libres me encontrarás mejorando proyectos o jugando una partida 
 
 ### 💼 Contacto
 - 💬 Pregúntame sobre cualquier cosa, me encanta ayudar.  
-- 📧 **Email:** *(añade tu correo profesional si deseas mostrarlo)*  
+- 📧 **Email:** sahmedrasheed@gmail.com 
 - 🧩 **Discord:** `poyito777`  
 - 🌐 **GitHub:** [poyito777](https://github.com/poyito777)
 
@@ -63,7 +63,7 @@ En mis tiempos libres me encontrarás mejorando proyectos o jugando una partida 
 
 ---
 
-## 💻 Mi equipo de trabajo  
+## 💻 Mi maquina de trabajo
 
 <p align='center'>
   <img alt="os" src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
