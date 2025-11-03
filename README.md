@@ -98,7 +98,33 @@ En mis tiempos libres me encontrarás mejorando proyectos o jugando una partida 
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Tech Stack Overview
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20React-blueviolet?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20Python%20%7C%20Strapi-green?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Bases%20de%20Datos-MySQL%20%7C%20PostgreSQL%20%7C%20SQLite-orange?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/Herramientas-Git%20%7C%20VSCode%20%7C%20Postman%20%7C%20Render%20%7C%20Linux-informational?style=for-the-badge" />
+</p>
+
+---
+
+### 🚧 Mis habilidades principales
+| Tecnología | Nivel |
+|-------------|--------|
+| 🖥️ HTML / CSS / JS | ██████████░░░ 90% |
+| ⚛️ React / Bootstrap | █████████░░░░ 80% |
+| 🐍 Python / Node.js | ████████░░░░░ 75% |
+| 🗄️ MySQL / PostgreSQL / SQLite | ███████░░░░░░ 70% |
+| 🧰 Git / Linux / VSCode | ██████████░░░ 90% |
+| 🎨 Diseño Gráfico / UI | ████████░░░░░ 75% |
+
+---
+
+## 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=poyito777&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmed's GitHub Stats" />
@@ -114,16 +140,9 @@ En mis tiempos libres me encontrarás mejorando proyectos o jugando una partida 
 
 ---
 
-## 📈 Contribution Graph
+## 📊 Contribution Graph
 <a href="https://github.com/poyito777">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=poyito777&theme=react-dark&hide_border=true" alt="Ahmed's Contribution Graph" />
-</a>
-
----
-
-## 🧩 Skills Chart
-<a href='https://profile.codersrank.io/user/poyito777/'>
-  <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=poyito777&padding=30&skills=html,css,javascript,react,nodejs,python,mysql,postgresql,linux,git,docker,bootstrap'>
 </a>
 
 ---
