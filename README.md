@@ -1,6 +1,6 @@
 # Bienvenidos a mi cueva del virgen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25>
 
-![Badge](https://visitor-counter-badge.vercel.app/api/poyito777/poyito777)
+
 <a href="https://www.github.com/poyito777" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/poyito777?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
