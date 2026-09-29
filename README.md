@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=190&section=header&text=Ahmed%20Solis&fontSize=48&fontColor=F8FAFC&fontAlignY=36&animation=fadeIn"
@@ -262,4 +262,4 @@ Si quieres conversar sobre desarrollo web, diseño digital o tecnología para el
     alt="Onda azul al pie del perfil"
   />
 
-</div>
+</div>](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fpoyito777%2Fpoyito777%2Fedit%2Fmain%2FREADME.md)
