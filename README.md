@@ -4,22 +4,23 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,40:14532D,70:16A34A,100:713F12&text=Ahmed%20Solís&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20•%20GIS%20•%20Applied%20AI%20•%20AgTech&descAlignY=59&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,40:14532D,70:16A34A,100:713F12&text=Ahmed%20Solís&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20•%20Mobile%20•%20GIS%20•%20Applied%20AI%20•%20AgTech&descAlignY=59&descSize=18&animation=fadeIn"/>
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=850&lines=Building+software+for+real-world+problems;Full-Stack+Development+%2B+GIS+%2B+Artificial+Intelligence;From+database+architecture+to+production+deployment;Building+technology+for+coffee%2C+agriculture+and+business" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Building+software+for+real-world+problems;Full-Stack+%2B+Mobile+%2B+GIS+%2B+Artificial+Intelligence;From+database+architecture+to+production+deployment;Building+technology+for+coffee%2C+agriculture+and+business" />
 </a>
 
 <br>
 
 <img src="https://img.shields.io/badge/Systems_Engineering-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full--Stack_Developer-16A34A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GIS_Developer-14532D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full--Stack-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mobile_Development-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GIS-14532D?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Applied_AI-713F12?style=for-the-badge"/>
 
 <br><br>
 
-🇳🇮 **Nicaragua** &nbsp;•&nbsp; 💻 Software Engineering &nbsp;•&nbsp; 🗺️ GIS &nbsp;•&nbsp; 🤖 AI &nbsp;•&nbsp; ☕ AgTech
+🇳🇮 **Nicaragua** &nbsp;•&nbsp; 💻 Software &nbsp;•&nbsp; 📱 Mobile &nbsp;•&nbsp; 🗺 GIS &nbsp;•&nbsp; 🤖 AI &nbsp;•&nbsp; ☕ AgTech
 
 </div>
 
@@ -33,7 +34,7 @@
 
 ### Building complete software systems
 
-I'm a **Full-Stack Software Developer** with a background in **Systems Engineering**, focused on designing and developing software that solves real operational problems.
+I'm a **Full-Stack & Mobile Developer** with a background in **Systems Engineering**, focused on designing and developing software that solves real operational problems.
 
 My work covers the entire development lifecycle:
 
@@ -48,7 +49,7 @@ Database
  ↓
 Backend / API
  ↓
-Frontend
+Web / Mobile Frontend
  ↓
 Security
  ↓
@@ -57,7 +58,7 @@ Deployment
 Production
 ```
 
-I especially enjoy projects where **software engineering, geographic information, artificial intelligence and real-world data intersect**.
+I especially enjoy projects where **software engineering, mobile development, geographic information, artificial intelligence and real-world data intersect**.
 
 </td>
 
@@ -68,19 +69,20 @@ I especially enjoy projects where **software engineering, geographic information
 ```yaml
 focus:
   - Full-Stack Development
+  - Mobile Development
   - GIS & Geospatial Systems
   - Artificial Intelligence
   - AgTech
   - Business Software
 
 currently_exploring:
+  - Flutter Applications
   - Local AI
   - RAG
   - AI Agents
   - Geospatial Intelligence
   - Climate Intelligence
   - Offline-first Apps
-  - Agricultural Forecasting
 
 philosophy:
   "Build technology that solves
@@ -104,6 +106,7 @@ philosophy:
 <br>
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -181,6 +184,60 @@ Intelligent platform designed to assist in the diagnosis of coffee pests and dis
 
 <td width="50%" valign="top">
 
+## 📱 Coffee Cupping Mobile App
+
+**Mobile application for professional coffee cupping workflows**
+
+A mobile-first application developed with **Flutter & Dart** for carrying out coffee sensory evaluation directly from a phone or tablet.
+
+The app transforms the traditional cupping sheet into an interactive digital workflow.
+
+### Core concepts
+
+☕ Coffee sensory evaluation  
+🎡 Interactive cupping wheel  
+📋 Digital cupping sheet  
+📊 Attribute scoring  
+👃 Aroma evaluation  
+👅 Flavor evaluation  
+⚖️ Balance analysis  
+📝 Sample observations  
+📱 Mobile-first interface
+
+### Interactive Workflow
+
+```text
+Coffee Sample
+      ↓
+Fragrance / Aroma
+      ↓
+Flavor
+      ↓
+Aftertaste
+      ↓
+Acidity
+      ↓
+Body
+      ↓
+Balance
+      ↓
+Overall Evaluation
+      ↓
+Final Score
+```
+
+The evaluation process is presented through an **interactive wheel interface**, allowing the user to move through each cupping stage naturally.
+
+### Technology
+
+<img src="https://skillicons.dev/icons?i=flutter,dart"/>
+
+`Flutter` · `Dart` · `Material Design`
+
+</td>
+
+<td width="50%" valign="top">
+
 ## 🎓 Academic Management System
 
 Institutional platform built for managing technical education programs.
@@ -207,6 +264,10 @@ Institutional platform built for managing technical education programs.
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ## 🍽 Business & POS Systems
@@ -232,7 +293,33 @@ Fast workflows, simple interfaces and systems designed around real business oper
 
 </td>
 
+<td width="50%" valign="top">
+
+## ☕ Coffee & Institutional Platforms
+
+Digital systems focused on the coffee industry and institutional operations.
+
+### Areas
+
+🌱 Coffee cultivation  
+📚 Digital libraries  
+🗺 Geographic coffee profiles  
+🌦 Weather information  
+☕ Brewing methods  
+📊 Coffee statistics  
+🌎 International buyers  
+🎓 Training platforms  
+🏆 Coffee events and competitions
+
+### Technology
+
+`WordPress` · `PHP` · `Vue` · `JavaScript`  
+`Google Maps` · `Tailwind CSS`
+
+</td>
+
 </tr>
+
 </table>
 
 ---
@@ -247,7 +334,7 @@ Fast workflows, simple interfaces and systems designed around real business oper
 
 <br>
 
-### 🎨 Frontend
+## 🎨 Frontend
 
 <div align="center">
 
@@ -256,7 +343,7 @@ Fast workflows, simple interfaces and systems designed around real business oper
 <br><br>
 
 ![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/Vue.js-0F172A?style=flat-square&logo=vuedotjs)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss)
@@ -266,7 +353,38 @@ Fast workflows, simple interfaces and systems designed around real business oper
 
 ---
 
-### ⚙️ Backend & Architecture
+## 📱 Mobile Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark"/>
+
+<br><br>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-0F172A?style=for-the-badge&logo=android)
+![Mobile UI](https://img.shields.io/badge/Mobile_UI-0F172A?style=for-the-badge)
+
+</div>
+
+<br>
+
+```text
+Mobile Development
+│
+├── Flutter
+├── Dart
+├── Responsive Mobile UI
+├── Interactive Interfaces
+├── Forms & Data Capture
+├── Coffee Cupping Workflows
+└── Android Applications
+```
+
+---
+
+## ⚙️ Backend & Architecture
 
 <div align="center">
 
@@ -284,7 +402,7 @@ Fast workflows, simple interfaces and systems designed around real business oper
 
 ---
 
-### 🗄 Database
+## 🗄 Database
 
 <div align="center">
 
@@ -299,7 +417,7 @@ Fast workflows, simple interfaces and systems designed around real business oper
 
 ---
 
-### 🗺 GIS & Geospatial
+## 🗺 GIS & Geospatial
 
 <div align="center">
 
@@ -323,7 +441,7 @@ Fast workflows, simple interfaces and systems designed around real business oper
 
 ---
 
-### 🤖 Artificial Intelligence
+## 🤖 Artificial Intelligence
 
 <div align="center">
 
@@ -352,7 +470,7 @@ Artificial Intelligence
 
 ---
 
-### 🚀 DevOps & Deployment
+## 🚀 DevOps & Deployment
 
 <div align="center">
 
@@ -371,7 +489,7 @@ Artificial Intelligence
 
 ---
 
-### 🌐 CMS & Web Platforms
+## 🌐 CMS & Web Platforms
 
 <div align="center">
 
@@ -387,36 +505,44 @@ Artificial Intelligence
 
 <div align="center">
 
-# ☕ Software + Agriculture + Data
+# ☕ Technology for Coffee
+
+### One of the strongest areas connecting my projects
 
 </div>
 
-A large part of my professional work involves building technology for the **coffee and agricultural sector**.
+<br>
 
 ```text
-                          ☕ COFFEE
-                             │
-          ┌──────────────────┼──────────────────┐
-          │                  │                  │
-          ▼                  ▼                  ▼
-     🗺 Geography        🌦 Climate          🌱 Agronomy
-          │                  │                  │
-          ├─ Farms           ├─ Rainfall       ├─ Flowering
-          ├─ Polygons        ├─ Temperature    ├─ Phenology
-          ├─ GPS             ├─ Soil Moisture  ├─ Pests
-          └─ GIS             └─ Water Balance  └─ Harvest
-          │                  │                  │
-          └──────────────────┼──────────────────┘
-                             ▼
-                       🤖 Intelligence
-                             │
-                      ┌──────┼──────┐
-                      │      │      │
-                     AI    Data   Models
-                      │      │      │
-                      └──────┼──────┘
-                             ▼
-                     📊 Decision Support
+                              ☕ COFFEE
+                                 │
+        ┌────────────────────────┼────────────────────────┐
+        │                        │                        │
+        ▼                        ▼                        ▼
+   🗺 Geography             🌦 Climate              📱 Cupping
+        │                        │                        │
+        ├─ Farms                ├─ Rainfall             ├─ Aroma
+        ├─ Polygons             ├─ Temperature          ├─ Flavor
+        ├─ GPS                  ├─ Soil Moisture         ├─ Acidity
+        └─ GIS                  └─ Water Balance         └─ Scoring
+        │                        │                        │
+        └────────────────────────┼────────────────────────┘
+                                 │
+                                 ▼
+                            🌱 Agronomy
+                                 │
+                     ┌───────────┼───────────┐
+                     │           │           │
+                  Flowering    Pests      Harvest
+                     │           │           │
+                     └───────────┼───────────┘
+                                 ▼
+                            🤖 Intelligence
+                                 │
+                         AI • Data • Models
+                                 │
+                                 ▼
+                         📊 Decision Support
 ```
 
 ---
@@ -474,7 +600,8 @@ I have worked with dashboards and analytical systems involving:
 🎓 Academic metrics  
 📝 Surveys  
 🍽 Restaurant operations  
-🗺 Geographic indicators
+🗺 Geographic indicators  
+📱 Mobile sensory evaluation
 
 Technologies include:
 
@@ -496,7 +623,7 @@ B --> C["🏗 Architecture"]
 C --> D["🗄 Database"]
 D --> E["⚙️ Backend"]
 E --> F["🔌 API"]
-F --> G["🎨 Frontend"]
+F --> G["💻 Web / 📱 Mobile"]
 G --> H["🔐 Security"]
 H --> I["🧪 Testing"]
 I --> J["🚀 Deployment"]
@@ -518,7 +645,7 @@ J --> K["📈 Improvement"]
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🤖 AI
 
@@ -534,7 +661,23 @@ Domain AI
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
+
+### 📱 Mobile
+
+Flutter
+
+Cross-platform Apps
+
+Offline-first
+
+Mobile UX
+
+Field Applications
+
+</td>
+
+<td width="25%" align="center">
 
 ### 🗺 Geospatial
 
@@ -550,7 +693,7 @@ Offline GIS
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🌱 AgTech
 
@@ -562,12 +705,26 @@ Forecasting
 
 Traceability
 
-Agricultural Decision Systems
+Agricultural Systems
 
 </td>
 
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+# 🧰 Complete Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,vite,tailwind,flutter,dart,php,python,mysql,wordpress,git,github,linux,nginx,vscode&perline=9&theme=dark"/>
+
+<br><br>
+
+**Web • Mobile • Backend • Databases • GIS • AI • Cloud • Production**
+
+</div>
 
 ---
 
@@ -603,11 +760,18 @@ I enjoy transforming complex processes into systems that people can actually use
 
 Whether the challenge involves:
 
-**hundreds of students**  
-**thousands of agricultural parcels**  
-**weather information**  
-**AI-assisted diagnosis**  
-**coffee production**  
+**hundreds of students**
+
+**thousands of agricultural parcels**
+
+**mobile coffee cupping**
+
+**weather information**
+
+**AI-assisted diagnosis**
+
+**coffee production**
+
 **business operations**
 
 the objective remains the same:
@@ -638,7 +802,7 @@ the objective remains the same:
 
 <br><br>
 
-### 💻 Full-Stack &nbsp;•&nbsp; 🗺 GIS &nbsp;•&nbsp; 🤖 AI &nbsp;•&nbsp; ☕ AgTech
+### 💻 Full-Stack &nbsp;•&nbsp; 📱 Mobile &nbsp;•&nbsp; 🗺 GIS &nbsp;•&nbsp; 🤖 AI &nbsp;•&nbsp; ☕ AgTech
 
 ### Building technology from Nicaragua 🇳🇮
 
